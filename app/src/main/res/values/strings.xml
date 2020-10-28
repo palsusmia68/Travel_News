@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SmartGuide</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+    <!--<string name="appid">ca-app-pub-7415074883241487~1258458817</string>
+    <string name="banner">ca-app-pub-7415074883241487/6730277347</string>
+    <string name="intertial">ca-app-pub-7415074883241487/2599460646</string>-->
+    <string name="appid">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="intertial">ca-app-pub-3940256099942544/1033173712</string>-->
+</resources>

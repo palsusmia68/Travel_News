@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "463248548354",
+    "firebase_url": "https://smartguide-2a434.firebaseio.com",
+    "project_id": "smartguide-2a434",
+    "storage_bucket": "smartguide-2a434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463248548354:android:1110159c74570537",
+        "android_client_info": {
+          "package_name": "com.Surajtechstudio.smartguidebengali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463248548354-5l279bk99cfkrbq30et0mb6b47ghcgqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Surajtechstudio.smartguidebengali",
+            "certificate_hash": "deeaea4aae8d9e5e23d6bacd9ae63e09465674a3"
+          }
+        },
+        {
+          "client_id": "463248548354-4bvqi4carradpgusc3mmj4al46njlsij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIEXFTEdtCXHCYrKGXGFMt3yNRyztrCNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463248548354-4bvqi4carradpgusc3mmj4al46njlsij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
